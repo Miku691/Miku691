@@ -1,6 +1,8 @@
-# 👋 Hello, I'm Makaradhwaja Behera (Miku) 
+# 👋 Hello, I'm Makaradhwaja Behera (Miku)
 
-🌟 A passionate **Software Engineer** with expertise in a variety of technologies, eager to create innovative solutions and contribute to exciting projects!
+🌟 A passionate **Software Engineer** with expertise in various technologies, eager to create innovative solutions and contribute to exciting projects!
+
+![Coding GIF](https://media.giphy.com/media/3o7buxt3B3KkLe6kEe/giphy.gif)
 
 ---
 
@@ -12,11 +14,9 @@
 
 ---
 
-## 🌱 I’m currently learning 
+## 📈 My GitHub Stats
 
-- **Advanced Java Features**
-- **Microservices Architecture**
-- **Cloud Computing with AWS**
+![Miku's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true&count_private=true&theme=radical)
 
 ---
 
@@ -34,5 +34,5 @@
 
 ---
 
-✨ Feel free to reach out to me if you want to collaborate on projects, share ideas, or just have a chat!
+✨ Feel free to contact me if you want to collaborate on projects, share ideas, or just have a chat!
 
