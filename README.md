@@ -2,7 +2,6 @@
 
 🌟 A passionate **Software Engineer** with expertise in various technologies, eager to create innovative solutions and contribute to exciting projects!
 
-![Coding GIF](https://media.giphy.com/media/3o7buxt3B3KkLe6kEe/giphy.gif)
 
 ---
 
@@ -16,7 +15,7 @@
 
 ## 📈 My GitHub Stats
 
-![Miku's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true&count_private=true&theme=radical)
+![Miku's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Miku691&show_icons=true&hide_border=true&count_private=true&theme=radical)
 
 ---
 
